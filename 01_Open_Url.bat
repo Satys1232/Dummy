@@ -5,4 +5,5 @@ pause
 start chrome.exe www.youtube.com
 start msedge.exe www.google.com
 start brave.exe www.facebook.com
+start edge.exe www.yandex.com
 
