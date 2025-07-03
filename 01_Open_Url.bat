@@ -7,4 +7,4 @@ start msedge.exe www.google.com
 start brave.exe www.facebook.com
 start edge.exe www.yandex.com
 start firefox.exe www.codewithharry.com
-
+start firefox.exe www.instagram.com
